@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02431302-1278-4bbe-9c10-1c31223a0a77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_02.Feb.2024/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Jan.2024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Jan.2024/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_02.Feb.2024/Lab005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,36 @@
       <option name="presentableId" value="Default" />
       <updated>1707300812035</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello">
+      <option name="closed" value="true" />
+      <created>1707302496044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707302496044</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello">
+      <option name="closed" value="true" />
+      <created>1707302577342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707302577342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hello">
+      <option name="closed" value="true" />
+      <created>1707302648276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707302648276</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
