@@ -1,0 +1,5 @@
+x = int(input("Enter the first number:" ))
+y = int(input("Enter the second number:" ))
+print("First number is greater than second number:", x>y)
+print("First number is less than second number:", x<y)
+print("First number is equals to second number:", x==y)
