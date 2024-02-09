@@ -12,4 +12,4 @@ print(result)
 
 #not operator should be used with boolean data type
 
-to check more about bitwise operator check rapidtables.com
+#to check more about bitwise operator check rapidtables.com
