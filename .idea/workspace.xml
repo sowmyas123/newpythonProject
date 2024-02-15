@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02431302-1278-4bbe-9c10-1c31223a0a77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_07.Feb.2024/areaofcircle Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_07.Feb.2024/checkthenogreaterorless Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_07.Feb.2024/squareandcubeoftheno Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_02.Feb.2024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_02.Feb.2024/Lab009 Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_02.Feb.2024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_02.Feb.2024/Lab010 Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_09.Feb.2024/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_07.Feb.2024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_07.Feb.2024/Lab027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_07.Feb.2024/areaofcircle Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_07.Feb.2024/areaofcircle Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_07.Feb.2024/squareandcubeoftheno Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_07.Feb.2024/squareandcubeoftheno Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
     "Python.Lab025.executor": "Run",
     "Python.Lab026.executor": "Run",
     "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
     "Python.areaofcircle Task1.executor": "Run",
     "Python.checkthenogreaterorless Task2.executor": "Run",
     "Python.squareandcubeoftheno Task3.executor": "Run",
@@ -56,28 +55,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="Python.squareandcubeoftheno Task3">
-    <configuration name="Lab026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="newpythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_07.Feb.2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_07.Feb.2024/Lab026.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="newpythonProject" />
       <option name="ENV_FILES" value="" />
@@ -92,6 +69,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_07.Feb.2024/Lab027.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newpythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_09.Feb.2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_09.Feb.2024/Lab028.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,10 +190,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.squareandcubeoftheno Task3" />
-        <item itemvalue="Python.checkthenogreaterorless Task2" />
         <item itemvalue="Python.areaofcircle Task1" />
+        <item itemvalue="Python.Lab028" />
+        <item itemvalue="Python.checkthenogreaterorless Task2" />
         <item itemvalue="Python.Lab027" />
-        <item itemvalue="Python.Lab026" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707409137901</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="hello">
+      <option name="closed" value="true" />
+      <created>1707411632723</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1707411632723</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
